@@ -1,0 +1,5 @@
+This is an incomplete implementation at the moment.  Only for the methods I am currently using.  Obviously filling out the API would be great.  
+
+This initial version simply had methods return None.  It would be cleaner to add a custom exception which can be thrown if the API calls fail.  
+
+Easier composition of the configuration would be really helpful. Right now i just use that single hard coded config, but being able to set that up programatically would be much nicer.  
